@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'thoughts of a deer'
+
+theme = "ananke"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/ledeniz"
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://chaos.social/diegeticdeer"
